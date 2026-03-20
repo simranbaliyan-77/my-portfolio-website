@@ -1,3 +1,3 @@
 # my-portfolio-website
 Ai-Ui-generator
-https://neon-cascaron-bb57c9.netlify.app/
+https://papaya-babka-4273f2.netlify.app/
