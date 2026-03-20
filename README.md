@@ -1,6 +1,6 @@
 # my-portfolio-website
 Ai-Ui-generator
-https://papaya-babka-4273f2.netlify.app/
+https://simranbaliyanprofile.netlify.app/
 AI UI Generator
 
 An AI-powered web application that generates modern UI components based on user prompts. This project helps developers quickly create clean, responsive, and visually appealing frontend designs without writing repetitive code.
